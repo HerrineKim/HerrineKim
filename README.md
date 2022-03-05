@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![https://solved.ac/profile/aprilkim](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aprilkim)](https://github.com/aprilkim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
 
-![Herrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprilkim&show_icons=true&theme=radical)
+![Herrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrineKim&show_icons=true&theme=radical)
