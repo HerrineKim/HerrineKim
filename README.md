@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=5D8BF4&height=200&section=header&text=Herrine%20Kim&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5D8BF4&height=200&section=header&text=Herrine%20Kim&fontSize=80)
 ### Welcome to Herrine's github 🍒
 
 <hr>
