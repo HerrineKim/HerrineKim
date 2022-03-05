@@ -1,5 +1,4 @@
-![header](https://capsule-render.app/api?type=wave&color=13678A&height=300&section=header&text=capsule%20render&fontSize=90)
-![header](https://capsule-render.vercel.app/api?type=wave&color=13678A&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=13678A&height=250&section=header&text=Herrine%20Kim&fontSize=85)
 ### Welcome to Herrine's github 🍒
 
 <!--
