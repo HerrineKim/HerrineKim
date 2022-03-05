@@ -1,4 +1,4 @@
-![header](https://capsule-render.app/api?type=waving&color=13678A&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.app/api?type=wave&color=13678A&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ### Welcome to Herrine's github 🍒
 
