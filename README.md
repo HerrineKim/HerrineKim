@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![https://solved.ac/profile/aprilkim](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aprilkim)](https://github.com/aprilkim/github-readme-stats)
