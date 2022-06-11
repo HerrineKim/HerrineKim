@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=5D8BF4&height=200&section=header&text=Herrine%20Kim&fontSize=70)
 <div align="center">
- ![header](https://capsule-render.vercel.app/api?type=waving&color=5D8BF4&height=200&section=header&text=Herrine%20Kim&fontSize=70)
  <h1>Welcome to Herrine's github 🍒</h1>
-
- <hr>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
 
