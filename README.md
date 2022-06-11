@@ -20,12 +20,16 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 
-##### FE
-##### React - Django project
+FE
+React - Django project
+
+<br>
 
 ### 👯 I’m looking to collaborate on
 
 data journalism projects
+
+<br>
 
 ### 🌱 I’m currently using
 
@@ -40,10 +44,14 @@ data journalism projects
  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </span>
 
+<br>
+
 ### 📫 How to reach me
 
 email: herrine.kim@gmail.com
- 
+
+<br>
+
 ### 📈 GitHub stats
 
 [![Herrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
