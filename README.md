@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  ![header](https://capsule-render.vercel.app/api?type=waving&color=5D8BF4&height=200&section=header&text=Herrine%20Kim&fontSize=70)
- ### Welcome to Herrine's github 🍒
+ <h1>Welcome to Herrine's github 🍒</h1>
 
  <hr>
 
