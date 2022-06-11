@@ -18,6 +18,15 @@ Here are some ideas to get you started:
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
  -->
 
+### 🔭 I’m currently working on
+
+##### FE
+##### React - Django project
+
+### 👯 I’m looking to collaborate on
+
+data journalism projects
+
 ### 🌱 I’m currently using
 
 <span>
