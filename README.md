@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### 👧 I am ...
 
-<p>Name  | 김혜린 (Herrine Kim)</p>
-<p>Major | Philosophy / Media Communications</p>
+<p>Name  : 김혜린 (Herrine Kim)</p>
+<p>Major : Philosophy / Media Communications</p>
 
 <br>
 
