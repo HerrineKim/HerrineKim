@@ -18,20 +18,28 @@ Here are some ideas to get you started:
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
  -->
 
-### 🔭 I’m currently working on
+### 👧 I am ...
 
-FE
+Name  | 김혜린 (Herrine Kim)
+Major | Philosophy / Media Communications
+
+<br>
+
+### 🔭 I’m currently working on...
+
+Samsung Software Academy for Youth(SSAFY)
+Front-end developer
 React - Django project
 
 <br>
 
-### 👯 I’m looking to collaborate on
+### 👯 I’m looking to collaborate on...
 
 data journalism projects
 
 <br>
 
-### 🌱 I’m currently using
+### 🌱 I’m currently using...
 
 <span>
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
