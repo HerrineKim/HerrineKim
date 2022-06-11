@@ -20,22 +20,22 @@ Here are some ideas to get you started:
 
 ### 👧 I am ...
 
-Name  | 김혜린 (Herrine Kim)
-Major | Philosophy / Media Communications
+<p>Name  | 김혜린 (Herrine Kim)</p>
+<p>Major | Philosophy / Media Communications</p>
 
 <br>
 
 ### 🔭 I’m currently working on...
 
-Samsung Software Academy for Youth(SSAFY)
-Front-end developer
-React - Django project
+<p>Samsung Software Academy for Youth(SSAFY)</p>
+<p>Front-end developer</p>
+<p>React - Django project</p>
 
 <br>
 
 ### 👯 I’m looking to collaborate on...
 
-data journalism projects
+<p>data journalism projects</p>
 
 <br>
 
@@ -57,7 +57,7 @@ data journalism projects
 
 ### 📫 How to reach me
 
-email: herrine.kim@gmail.com
+<p>email: herrine.kim@gmail.com</p>
 
 <br>
 
