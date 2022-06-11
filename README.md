@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<span><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></span>
 
 ### 📫 How to reach me
 
-- email: herrine.kim@gmail.com
+email: herrine.kim@gmail.com
  
  [![Herrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
