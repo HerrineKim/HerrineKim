@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=5D8BF4&height=200&section=header&text=김혜린%20金惠潾%20Herrine%20Kim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=5D8BF4&height=200&section=header&text=김혜린%20金惠潾%20Herrine%20Kim&fontSize=50)
 
 
 ### 👧 I am ...
