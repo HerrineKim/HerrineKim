@@ -69,12 +69,6 @@ Here are some ideas to get you started:
 
 <br>
 
-### 📫 How to reach me
-
-<p>email: herrine.kim@gmail.com</p>
-
-<br>
-
 ### 📈 GitHub stats
 
 [![Herrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
