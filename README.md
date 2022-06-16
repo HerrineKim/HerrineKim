@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=5D8BF4&height=200&section=header&text=Herrine%20Kim&fontSize=70)
 
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
 
 ### 👧 I am ...
 
