@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <p>Name  : 김혜린 (Herrine Kim)</p>
 <p>Major : Philosophy / Media Communications</p>
+<p>running, cooking, philosophizing enthusiast</p>
+🇺🇸 🇨🇳 🇳🇿 🇯🇵 🇹🇼 
 
 <br>
 
