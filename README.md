@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 👯 I’m looking to collaborate on...
 
-<p>data journalism projects</p>
+<p>Data + Web projects / data journalism projects</p>
 
 <br>
 
