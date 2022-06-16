@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <p>Major : Philosophy / Media Communications</p>
 <p>running, cooking, philosophizing enthusiast</p>
 :us: :cn: :nz: :jp: :taiwan: 
+<p>🇳🇴</p>
 
 <br>
 
