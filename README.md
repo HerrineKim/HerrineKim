@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <p>Major : Philosophy / Media Communications</p>
 <p>running, cooking, philosophizing enthusiast</p>
 
+<br>
+
 ### 🔭 I’m currently working on...
 
 <p>Samsung Software Academy for Youth(SSAFY)</p>
