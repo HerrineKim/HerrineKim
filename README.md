@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 
 <p>Name  : 김혜린 (Herrine Kim)</p>
 <p>Major : Philosophy / Media Communications</p>
-<p>running, cooking, philosophizing enthusiast</p>
+<p>Running, Cooking, Philosophizing enthusiast</p>
 
 <br>
 
 ### 🔭 I’m currently working on...
 
 <p>Samsung Software Academy for Youth(SSAFY)</p>
-<p>Front-end developer</p>
-<p>React - Django project</p>
+<p>Being front-end developer</p>
+<p>Vue - Django project</p>
 
 <br>
 
