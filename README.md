@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <p>Pine Scholarship 7th scholarship student                     (2017.08 ~ 2018.07)</p>
 
-<p>The Hanynag Journal reporter                                 (2018.08 ~ 2019.06)</p>
+<p>The Hanyang Journal reporter                                 (2018.08 ~ 2019.06)</p>
 
 <p>College student reporter of Ministry of Unification of Korea (2019.01 ~ 2019.12)</p>
 
