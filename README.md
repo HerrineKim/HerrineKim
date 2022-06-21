@@ -19,8 +19,8 @@ _**많은 사용자에게 유용함과 참여의 동기를 줄 수 있는 서비
 
 ### 👧 I am ...
 
-<p>Name  : 김혜린 (Herrine Kim)</p>
-<p>Major : Philosophy / Media Communications</p>
+<p>Name  | 김혜린 (Herrine Kim)</p>
+<p>Major | Hanyang Univ. Philosophy, Media Communications</p>
 <p>Running, Cooking, Philosophizing enthusiast</p>
 
 <br>
