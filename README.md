@@ -59,11 +59,11 @@ _**많은 사용자에게 유용함과 참여의 동기를 줄 수 있는 서비
 
 <p>13th TedXHanyangU manager                                    (2017.08 ~ 2017.12)</p>
 
-<p>Pine Scholarship 7th scholarship student                     (2017.08 ~ 2018.07)</p>
+<p>Pine Scholarship 7th recepient                    (2017.08 ~ 2018.07)</p>
 
-<p>The Hanyang Journal reporter                                 (2018.08 ~ 2019.06)</p>
+<p>The Hanyang Journal student reporter                                 (2018.08 ~ 2019.06)</p>
 
-<p>College student reporter of Ministry of Unification of Korea (2019.01 ~ 2019.12)</p>
+<p>Student reporter of Ministry of Unification of Korea (2019.01 ~ 2019.12)</p>
 
 <p>The JoongAng Daily intern reporter                           (2019.06 ~ 2019.12)</p>
 
