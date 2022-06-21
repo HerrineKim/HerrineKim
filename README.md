@@ -19,9 +19,13 @@ _**많은 사용자에게 유용함과 참여의 동기를 줄 수 있는 서비
 
 ### 👧 I am ...
 
-<p>Name  |
- 김혜린 (Herrine Kim)</p>
-<p>Major | Hanyang Univ. Philosophy, Media Communications</p>
+<p>NAME  |</p>
+<p>김혜린 (Herrine Kim)</p>
+<p>EDUCATION |</p>
+<p>HANYANG UNIVERSITY</p>
+<p>Bachelor of Arts in Philosophy</p>
+<p>Bachelor of Arts in Media Communications</p>
+<p>ABOUT |</p>
 <p>Running, Cooking, Philosophizing enthusiast</p>
 
 <br>
