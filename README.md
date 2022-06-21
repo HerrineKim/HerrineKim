@@ -19,13 +19,13 @@ _**많은 사용자에게 유용함과 참여의 동기를 줄 수 있는 서비
 
 ### 👧 I am ...
 
-<p>NAME  |</p>
+<p><strong>NAME  |</strong></p>
 <p>김혜린 (Herrine Kim)</p>
-<p>EDUCATION |</p>
+<p><strong>EDUCATION |</strong></p>
 <p>HANYANG UNIVERSITY</p>
-<p>Bachelor of Arts in Philosophy</p>
-<p>Bachelor of Arts in Media Communications</p>
-<p>ABOUT |</p>
+<p>- Bachelor of Arts in Philosophy</p>
+<p>- Bachelor of Arts in Media Communications</p>
+<p><strong>ABOUT |</strong></p>
 <p>Running, Cooking, Philosophizing enthusiast</p>
 
 <br>
