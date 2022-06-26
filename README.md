@@ -29,8 +29,6 @@ _I have a passion for services/contents/journalism that can be useful to many us
 <p>- Bachelor of Arts in Media Communications</p>
 <p><strong>ABOUT |</strong></p>
 <p>Running, Cooking, Philosophizing enthusiast</p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
 
 <br>
 
@@ -50,6 +48,8 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 ### 🌱 I’m currently using...
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
 <span>
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
