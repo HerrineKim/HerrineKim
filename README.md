@@ -37,6 +37,8 @@ _I have a passion for services/contents/journalism that can be useful to many us
 <p>Samsung Software Academy for Youth(SSAFY)</p>
 <p>Being front-end developer</p>
 <p>Vue - Django project</p>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
 
 <br>
 
@@ -47,9 +49,6 @@ _I have a passion for services/contents/journalism that can be useful to many us
 <br>
 
 ### 🌱 I’m currently using...
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
 
 <span>
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
