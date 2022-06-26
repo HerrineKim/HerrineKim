@@ -22,7 +22,8 @@ _I have a passion for services/contents/journalism that can be useful to many us
 ### 👧 I am ...
 
 <p><strong>NAME  |</strong></p>
-<p>김혜린 (Herrine Kim)</p>
+<p>김혜린 (Herrine Kim)</p> [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
 <p><strong>EDUCATION |</strong></p>
 <p>HANYANG UNIVERSITY</p>
 <p>- Bachelor of Arts in Philosophy</p>
@@ -48,8 +49,6 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 ### 🌱 I’m currently using...
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
 <span>
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
