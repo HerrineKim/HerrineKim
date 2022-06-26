@@ -37,8 +37,6 @@ _I have a passion for services/contents/journalism that can be useful to many us
 <p>Samsung Software Academy for Youth(SSAFY)</p>
 <p>Being front-end developer</p>
 <p>Vue - Django project</p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
 
 <br>
 
@@ -82,6 +80,8 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 ### 📈 GitHub stats
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
 [![Herrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
 
 <br>
