@@ -29,6 +29,8 @@ _I have a passion for services/contents/journalism that can be useful to many us
 <p>- Bachelor of Arts in Media Communications</p>
 <p><strong>ABOUT |</strong></p>
 <p>Running, Cooking, Philosophizing enthusiast</p>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
 
 <br>
 
@@ -80,8 +82,6 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 ### 📈 GitHub stats
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
 [![Herrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
 
 <br>
