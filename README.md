@@ -40,12 +40,6 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 <br>
 
-### 👯 I’m looking to collaborate on...
-
-<p>Data + Web projects / data journalism projects</p>
-
-<br>
-
 ### 🌱 I’m currently using...
 
 <span>
