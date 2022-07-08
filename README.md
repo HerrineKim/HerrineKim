@@ -71,12 +71,7 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 <p>SSAFY 7th student                                            (2022.01 ~)</p>
 
+<br>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
-
-
-<!--
-### 📈 GitHub stats
-
-[![Herrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
--->
