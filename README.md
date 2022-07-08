@@ -73,9 +73,9 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 <br>
 
-### 📈 GitHub stats
+// ### 📈 GitHub stats
 
-[![Herrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
+// [![Herrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
 
 <br>
 
