@@ -79,9 +79,5 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 <br>
 
-### 💻 Most used languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerrineKim)](https://github.com/HerrineKim/github-readme-stats)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim)
