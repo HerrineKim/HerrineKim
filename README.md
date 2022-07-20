@@ -37,6 +37,7 @@ _I have a passion for services/contents/journalism that can be useful to many us
 <p>Samsung Software Academy for Youth(SSAFY)</p>
 <p>Being front-end developer</p>
 <p>Vue - Django project</p>
+<p>Vue - Spring project</p>
 
 <br>
 
