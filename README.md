@@ -19,7 +19,6 @@ _**많은 사용자에게 유용함과 참여의 동기를 줄 수 있는 서비
 <br>
 _I have a passion for services/contents/journalism that can be useful to many users and motivates participation._
 
-<br>
 <h3>Vue3, React, TypeScript, JavaScript, Django</h3>
 
 ### 👧 I am ...
