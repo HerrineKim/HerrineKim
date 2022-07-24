@@ -35,7 +35,7 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 <br>
 
-### 🌱 I’m currently using...
+### 🌱 I’m used to...
 
 <span>
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
