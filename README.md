@@ -24,10 +24,9 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 ### 👧 I am ...
 
-<p><strong>NAME  |</strong> 김혜린 (Herrine Kim)</p> 
-<p><strong>EDUCATION |</strong> HANYANG UNIVERSITY</p>
-<p>- Bachelor of Arts in Philosophy</p>
-<p>- Bachelor of Arts in Media Communications</p>
+<p><strong>NAME  |</strong> 김혜린(Hyerin Kim)</p> 
+<p><strong>EDUCATION |</strong> 한양대학교(HANYANG UNIVERSITY)</p>
+<p>철학, 미디어커뮤니케이션(Bachelor of Arts in Philosophy, Bachelor of Arts in Media Communications)</p>
 <p><strong>ABOUT |</strong> Running, Cooking, Philosophizing enthusiast</p>
 
 <br>
@@ -57,14 +56,14 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 ### 📘 What I've done...
 
-<p>13th TedXHanyangU manager                                    (2017.08 ~ 2017.12)</p>
+<p>TedxHanyangU 기획팀(13th TedXHanyangU manager) (2017.08 ~ 2017.12)</p>
 
-<p>Pine Scholarship 7th recepient                    (2017.08 ~ 2018.07)</p>
+<p>소나무장학회 7기 장학생(Pine Scholarship 7th recepient) (2017.08 ~ 2018.07)</p>
 
-<p>The Hanyang Journal student reporter                                 (2018.08 ~ 2019.06)</p>
+<p>한양대학교 영자신문사 한양저널 정기자(The Hanyang Journal student reporter) (2018.08 ~ 2019.06)</p>
 
-<p>Student reporter of Ministry of Unification of Korea (2019.01 ~ 2019.12)</p>
+<p>통일부 대학생 기자단(Student reporter of Ministry of Unification of Korea) (2019.01 ~ 2019.12)</p>
 
-<p>The JoongAng Daily intern reporter                           (2019.06 ~ 2019.12)</p>
+<p>중앙일보 인턴기자(The JoongAng Daily intern reporter)(2019.06 ~ 2019.12)</p>
 
-<p>SSAFY 7th student                                            (2022.01 ~)</p>
+<p>SSAFY 7기 (2022.01 ~)</p>
