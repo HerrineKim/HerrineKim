@@ -24,14 +24,11 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 ### 👧 I am ...
 
-<p><strong>NAME  |</strong></p>
-<p>김혜린 (Herrine Kim)</p> 
-<p><strong>EDUCATION |</strong></p>
-<p>HANYANG UNIVERSITY</p>
+<p><strong>NAME  |</strong> 김혜린 (Herrine Kim)</p> 
+<p><strong>EDUCATION |</strong> HANYANG UNIVERSITY</p>
 <p>- Bachelor of Arts in Philosophy</p>
 <p>- Bachelor of Arts in Media Communications</p>
-<p><strong>ABOUT |</strong></p>
-<p>Running, Cooking, Philosophizing enthusiast</p>
+<p><strong>ABOUT |</strong> Running, Cooking, Philosophizing enthusiast</p>
 
 <br>
 
@@ -71,8 +68,3 @@ _I have a passion for services/contents/journalism that can be useful to many us
 <p>The JoongAng Daily intern reporter                           (2019.06 ~ 2019.12)</p>
 
 <p>SSAFY 7th student                                            (2022.01 ~)</p>
-
-
-
-<--! [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aprilkim)](https://solved.ac/aprilkim) !-->
