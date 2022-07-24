@@ -19,18 +19,19 @@ _**많은 사용자에게 유용함과 참여의 동기를 줄 수 있는 서비
 <br>
 _I have a passion for services/contents/journalism that can be useful to many users and motivates participation._
 
+### 🔭 I’m currently working on...
+
+<p>프론트엔드, 기획, 미디어 </p>
+<p>Samsung Software Academy for Youth(SSAFY)</p>
+
+<br>
+
 ### 👧 I am ...
 
 <p><strong>NAME  |</strong> 김혜린(Hyerin Kim)</p> 
 <p><strong>EDUCATION |</strong> 한양대학교(HANYANG UNIVERSITY)</p>
 <p>철학, 미디어커뮤니케이션(Bachelor of Arts in Philosophy, Bachelor of Arts in Media Communications)</p>
 <p><strong>ABOUT |</strong> Running, Cooking, Philosophizing enthusiast</p>
-
-<br>
-
-### 🔭 I’m currently working on...
-
-<p>Samsung Software Academy for Youth(SSAFY)</p>
 
 <br>
 
