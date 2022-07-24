@@ -22,7 +22,7 @@ _I have a passion for services/contents/journalism that can be useful to many us
 ### 🔭 I’m currently working on...
 
 <p>프론트엔드, 기획, 미디어 콘텐츠(FE, Product managing, contents)</p>
-<p>Samsung Software Academy for Youth(SSAFY)</p>
+<p>SSAFY 7기(Samsung Software Academy for Youth)</p>
 
 <br>
 
