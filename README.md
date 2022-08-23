@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=5D8BF4&height=200&section=header&text=김혜린%20金惠潾%20Herrine%20Kim&fontSize=50) -->
 
-_**많은 사용자에게 유용함과 참여의 동기를 줄 수 있는 서비스/콘텐츠/저널리즘에 대한 관심이 많습니다.**_
 <br>
 _I have a passion for services/contents/journalism that can be useful to many users and motivates participation._
 
@@ -28,6 +27,7 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 ## 👧 I am ...
 
+_많은 사용자에게 유용함과 참여의 동기를 줄 수 있는 서비스/콘텐츠/저널리즘에 대한 관심이 많습니다._
 <p><strong>ABOUT |</strong> Running, Cooking, Philosophizing enthusiast</p>
 <p><strong>EDUCATION |</strong> 한양대학교(HANYANG UNIVERSITY)</p>
 <p>철학, 미디어커뮤니케이션(B.A. in Philosophy, B.A. in Media Communications)</p>
