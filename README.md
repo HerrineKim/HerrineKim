@@ -28,10 +28,9 @@ _I have a passion for services/contents/journalism that can be useful to many us
 
 ## 👧 I am ...
 
-<p><strong>NAME  |</strong> 김혜린(Hyerin Kim)</p> 
+<p><strong>ABOUT |</strong> Running, Cooking, Philosophizing enthusiast</p>
 <p><strong>EDUCATION |</strong> 한양대학교(HANYANG UNIVERSITY)</p>
 <p>철학, 미디어커뮤니케이션(B.A. in Philosophy, B.A. in Media Communications)</p>
-<p><strong>ABOUT |</strong> Running, Cooking, Philosophizing enthusiast</p>
 
 <br>
 
