@@ -57,4 +57,6 @@ _I have a passion for services/contents/journalism that can be useful to many us
 <p>한양대학교 영자신문사 한양저널 정기자(The Hanyang Journal student reporter) (2018.08 ~ 2019.06)</p>
 <p>통일부 대학생 기자단(Student reporter of Ministry of Unification of Korea) (2019.01 ~ 2019.12)</p>
 <p>중앙일보 인턴기자(The JoongAng Daily intern reporter)(2019.06 ~ 2019.12)</p>
-<p>SSAFY 7기 - 1학기 공통프로젝트 최우수상 (2022.01 ~)</p>
+<p>SSAFY 7기</p>
+<p>SSAFYcial</p>
+<p>- 1학기 공통프로젝트 최우수상 (2022.01 ~)</p>
