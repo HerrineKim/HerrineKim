@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on...
 
+<p>React Native Android project</p>
 <p>Front-End, 기획, 미디어(FE, Product managing, media)</p>
 <p>SSAFY 7기(Samsung Software Academy for Youth)</p>
 
