@@ -11,18 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 🔭 I’m currently working on...
 -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=5D8BF4&height=200&section=header&text=김혜린%20金惠潾%20Herrine%20Kim&fontSize=50) -->
 
-<br>
-
-## 🔭 I’m currently working on...
-
-<p>Front-End, managing, design</p>
-<p>SSAFY 7기(Samsung Software Academy for Youth)</p>
-
-<br>
 
 ## 👧 I am ...
 
