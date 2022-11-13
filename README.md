@@ -53,5 +53,5 @@ _I have a passion for services/contents/journalism that can be useful to many us
 <p>중앙일보 인턴기자(The JoongAng Daily intern reporter)(2019.06 ~ 2019.12)</p>
 <p>SSAFY 7기(2022.01~)</p>
 <p>- SSAFYcial 기자단</p>
-<p>- 1학기 공통프로젝트 반 1등 수상</p>
-<p>- 2학기 특화프로젝트 수상</p>
+<p>- 1학기 공통프로젝트 최우수상 수상</p>
+<p>- 2학기 특화프로젝트 우수상 수상</p>
