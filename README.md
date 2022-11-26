@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 <p>철학, 미디어커뮤니케이션(B.A. in Philosophy, B.A. in Media Communications)</p>
 
 <br>
-<br>
 
 ## 📘 What I've done...
 
