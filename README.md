@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 <br>
 
-## 📘 What I've done...
+## 🌱 What I've done...
 
 <p>중앙일보 인턴기자(The JoongAng Daily intern reporter)(2019.06 ~ 2019.12)</p>
-<p>SSAFY 7기(2022.01 ~ 2022.12)</p>
+<p>Samsung Software Academy for Youth(SSAFY) 7기(2022.01 ~ 2022.12)</p>
 <p>Frontend Developer(2022.12 ~)
