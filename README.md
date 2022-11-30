@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## 👧 I am ...
 
 <p><strong>About |</strong> Running, Cooking, Philosophizing enthusiast</p>
-<p><strong>Education |</strong> 한양대학교(Hanyang University) 철학, 미디어커뮤니케이션(B.A. in Philosophy, B.A. in Media Communications)</p>
+<p><strong>Education |</strong> Hanyang University B.A. in Philosophy, B.A. in Media Communications</p>
 
 <br>
 
