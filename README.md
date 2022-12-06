@@ -44,4 +44,6 @@ Here are some ideas to get you started:
 
 <p>Frontend Developer(2022.12 ~)
 <p>Samsung Software Academy for Youth(SSAFY) 7기(2022.01 ~ 2022.12)</p>
-<p>중앙일보 인턴기자(The JoongAng Daily intern reporter)(2019.06 ~ 2019.12)</p>
+<p>중앙일보 인턴기자(2019.06 ~ 2019.12)</p>
+<p>한양대학교 영자신문사(2018.08 ~ 2019.06)</p>
+<p>TEDxHanyangU 13기 기획팀(2017.07~2017.12)</p>
