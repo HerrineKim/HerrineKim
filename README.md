@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p><strong>About |</strong> Running, Cooking, Philosophizing enthusiast</p>
 <p><strong>Education |</strong> Hanyang University B.A. in Philosophy, B.A. in Media Communications</p>
-<p><strong>Skills |</strong> <span></span></p>
+<p><strong>Skills |</strong> Vue2, Vue3, React Native, React, Typescript, Javascript, HTML, CSS, Django, Python</p>
 
 <br>
 
