@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🌱 <div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="김혜린" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/%EA%B9%80%ED%98%9C%EB%A6%B0?trk=profile-badge">김혜린</a></div>'s footsteps
+## 🌱 <span><div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="김혜린" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/%EA%B9%80%ED%98%9C%EB%A6%B0?trk=profile-badge">김혜린</a></div></span>'s footsteps
 
 <p>Frontend Developer(2022.12 ~)
 <p>Samsung Software Academy for Youth(SSAFY)(2022.01 ~ 2022.12)</p>
