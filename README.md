@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 <p>The Hanyang Journal Reporter(2018.08 ~ 2019.06)</p>
 <p>Pine Tree Scholarship 7th reciepient(2017.08 ~)</p>
 <p>TEDxHanyangU 13th organizer(2017.07 ~ 2017.12)</p>
-<span><div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="김혜린" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/%EA%B9%80%ED%98%9C%EB%A6%B0?trk=profile-badge">김혜린</a></div></span>(LinkedIn)
+<span><div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="김혜린" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/%EA%B9%80%ED%98%9C%EB%A6%B0?trk=profile-badge">LinkedIn</a></div></span>
 
