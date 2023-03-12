@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=5D8BF4&height=200&section=header&text=김혜린%20金惠潾%20Herrine%20Kim&fontSize=50) -->
 
-## 👧 Hello, here! 안녕하세요 :)
+## 👧 Hello, there! 안녕하세요 :)
 
 <p>official/passport name: <strong>HYERIN KIM</strong></p>
 <p><strong>About |</strong> Running, Cooking, Philosophizing enthusiast</p>
