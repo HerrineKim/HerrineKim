@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 🌱 My footsteps
 
-<p>Women Who Code Seoul volunteer(2023.03 ~)</p>
+<p>Women Who Code Seoul member(2023.03 ~)</p>
 <p>Software Developer(2022.12 ~)
 <p>Samsung Software Academy for Youth(SSAFY)(2022.01 ~ 2022.12)</p>
 <p>The Joong Ang Daily Intern Reporter(2019.06 ~ 2019.12)</p>
