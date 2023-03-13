@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p>official/passport name: <strong>HYERIN KIM</strong></p>
 <p><strong>About |</strong> Running, Cooking, Philosophizing enthusiast</p>
-<p><strong>Education |</strong> Hanyang University B.A. in Philosophy, B.A. in Media Communications</p>
+<p><strong>Education |</strong> Hanyang University bachelors degree in Philosophy and Media Communications(2022.2)</p>
 <p><strong>Skills |</strong> Vue2, Vue3, React Native, React, Typescript, Javascript, Nest.js, Next.js, Django</p>
 
 <br>
