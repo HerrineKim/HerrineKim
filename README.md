@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 중앙일보 논설위원실에서 시의성을 가지는 여러 인터뷰 콘텐츠 및 지면 기사를 발행했으며, 제13회 TEDxHanyangU의 기획, 구매 및 애프터파티의 진행에 참여했습니다. 이 외에도 한양대학교 최초의 국제학생단체의 설립과 프로젝트를 기획했고 한양대학교 영자신문사에서 한국 문화를 알리는 데 힘썼습니다.
 
-지금은 기술로써 사회를 건강한 방향으로 움직이자는 목표를 가지고 웹/앱 개발자로 일하고 있습니다. 프레임워크를 넘나들며 Vue2, Vue3, Next.js, React, React Native, Typescript 등을 이용한 프로젝트 경험이 있습니다. 또, Three.js와 Blender를 사용한 인터랙티브 웹에 관심을 가지고 공부하고 있으며 Django, Nest.js 등으로 API 서버를 운영할 수 있습니다.
+지금은 기술로써 사회를 건강한 방향으로 움직이자는 목표를 가지고 웹/앱 개발자로 일하고 있습니다. 프레임워크를 넘나들며 Next.js, React, React Native, Typescript, Vue2, Vue3 등을 이용한 프로젝트 경험이 있습니다. 또, Three.js와 Blender를 사용한 인터랙티브 웹에 관심을 가지고 공부하고 있으며 Django, Nest.js 등으로 API 서버를 운영할 수 있습니다.
 
 <p>official name: <strong>HYERIN KIM</strong></p>
 <p><strong>About |</strong> Running, Cooking, Philosophizing enthusiast</p>
