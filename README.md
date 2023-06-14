@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 
 안녕하세요, 저는 언론과 미디어 산업에 풍부한 경험을 가지고 있는 프론트엔드 웹 개발자입니다.
 
-중앙일보 논설위원실에서 시의성을 가지는 여러 인터뷰 콘텐츠 및 지면 기사를 발행했으며, 제13회 TEDxHanyangU의 기획, 구매 및 애프터파티의 진행에 참여했습니다. 이 외에도 한양대학교 최초의 국제학생단체의 설립과 프로젝트를 기획했고 한양대학교 영자신문사에서 한국 문화를 알리는 데 힘썼습니다.
+중앙일보 논설위원실에서 인턴 기자로서 여러 인터뷰 콘텐츠와 지면 기사를 발행했고, 커뮤니티 활동에 관심을 가지고 제13회 TEDxHanyangU, 한양대학교 국제학생단체를 기획했습니다.
 
-지금은 기술로써 사회를 건강한 방향으로 움직이자는 목표를 가지고 웹/앱 개발자로 일하고 있습니다. 프레임워크를 넘나들며 Next.js, React, React Native, Typescript, Vue2, Vue3 등을 이용한 프로젝트 경험이 있습니다. 또, Three.js와 Blender를 사용한 인터랙티브 웹에 관심을 가지고 공부하고 있으며 Django, Nest.js 등으로 API 서버를 운영할 수 있습니다.
+지금은 기술로써 사회를 건강한 방향으로 움직이자는 목표를 가지고 미국 장학금 중개 서비스 회사의 웹 개발자로 일하고 있으며, 다양한 분야의 프로젝트 경험이 있습니다.
+Three.js와 Blender를 사용한 인터랙티브한 콘텐츠 개발 및 프론트엔드에 주로 관심을 가지고 공부하고 있습니다.
 
-<p>official name: <strong>HYERIN KIM</strong></p>
 <p><strong>About |</strong> Running, Cooking, Philosophizing enthusiast</p>
-<p><strong>Education |</strong> Hanyang University bachelors degree in Philosophy and Media Communications(2022.2)</p>
+<p><strong>Education |</strong> Hanyang University Philosophy and Media Communications(2022.2)</p>
 <p><strong>Skills |</strong> Vue2, Vue3, React Native, React, Three.js, Blender, Typescript, Javascript, Nest.js, Next.js, Django</p>
 
 <br>
@@ -54,5 +54,4 @@ Here are some ideas to get you started:
 <p>Samsung Software Academy for Youth(SSAFY)(2022.01 ~ 2022.12)</p>
 <p>The Joong Ang Daily Intern Reporter(2019.06 ~ 2019.12)</p>
 <p>The Hanyang Journal Reporter(2018.08 ~ 2019.06)</p>
-<p>Pine Tree Scholarship 7th reciepient(2017.08 ~)</p>
 <p>TEDxHanyangU 13th organizer(2017.07 ~ 2017.12)</p>
