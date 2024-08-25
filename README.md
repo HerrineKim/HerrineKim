@@ -32,17 +32,11 @@ Here are some ideas to get you started:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=5D8BF4&height=200&section=header&text=김혜린%20金惠潾%20Herrine%20Kim&fontSize=50) -->
 
-## 👧 Hello, there! 안녕하세요 :)
+## About me
 
 <p><strong>About |</strong> Running, Cooking, Philosophizing enthusiast</p>
 <p><strong>Education |</strong> Hanyang University Philosophy and Media Communications(2022.2)</p>
 <p><strong>Skills |</strong> Vue2, Vue3, React Native, React, Three.js, Blender, Typescript, Javascript, Nest.js, Next.js, Django</p>
-
-안녕하세요, 저는 언론과 미디어 산업에 풍부한 경험을 가지고 있는 프론트엔드 웹 개발자입니다.
-중앙일보 논설위원실에서 인턴 기자로서 여러 인터뷰 콘텐츠와 지면 기사를 발행했고, 커뮤니티 활동에 관심을 가지고 제13회 TEDxHanyangU, 한양대학교 국제학생단체를 기획했습니다.
-지금은 기술로써 사회를 건강한 방향으로 움직이자는 목표를 가지고 미국 장학금 중개 서비스 회사의 웹 개발자로 일하고 있으며,
-Three.js와 Blender를 사용한 인터랙티브한 콘텐츠 개발 및 프론트엔드에 주로 관심을 가지고 공부하고 있습니다.
-2023년부터 Women Who Code Seoul의 운영진으로 활동하고 있습니다.
 
 
 ## 🌱 My footsteps
