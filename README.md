@@ -7,7 +7,7 @@
 
 ## 🌱 My footsteps
 
-<p>Women Who Code Seoul operator(2023.03 ~)</p>
+<p>Women Who Code Seoul - Operator(2023)</p>
 <p>Samsung Software Academy for Youth - Student(2022.01 ~ 2022.12)</p>
 <p>Hanyang University, BA in Philosophy & Media Communications(2022)</p>
 <p>The Joong Ang Daily - Intern Reporter(2019.06 ~ 2019.12)</p>
