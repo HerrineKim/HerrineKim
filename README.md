@@ -4,7 +4,7 @@
 
 > Experience: JavaScript, TypeScript, HTML/CSS, React.js, Next.js, Nest.js, Vue.js 2/3, Nuxt,js, Python, SQL, Three.js, A/B testing
 
-<p>Korea Cyber University, BA in Software Engineering(2023.08 ~)
+<p>Korea Cyber University, BA in Software Engineering(2023.08 ~ 2025.02)
 <p>Women Who Code Seoul - Operator(2023)</p>
 <p>Samsung Software Academy for Youth - Student(2022.01 ~ 2022.12)</p>
 <p>Hanyang University, BA in Philosophy & Media Communications(2017 ~ 2022)</p>
