@@ -1,6 +1,6 @@
 ## 🤍 About Me
 
-> 2-year software engineer
+> 3-year software engineer
 
 > Experience: JavaScript, TypeScript, HTML/CSS, React.js, Next.js, Nest.js, Vue.js 2/3, Nuxt,js, Python, SQL, Three.js, A/B testing
 
