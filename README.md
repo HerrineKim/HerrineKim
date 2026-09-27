@@ -1,10 +1,10 @@
 ## 🤍 About Me
 
-> 3-year software engineer
+> 4-year software engineer
 
 > Experience: JavaScript, TypeScript, HTML/CSS, React.js, Next.js, Nest.js, Vue.js 2/3, Nuxt,js, Python, SQL, Three.js, A/B testing
 
-<p>Web application engineer(2022.12 ~ Now)
+<p>Software Engineer(2022.12 ~ Now)
 <p>Korea Cyber University, BE in Software Engineering(2023.08 ~ 2025.02)
 <p>Women Who Code Seoul - Operator(2023)</p>
 <p>Samsung Software Academy for Youth - Student(2022.01 ~ 2022.12)</p>
