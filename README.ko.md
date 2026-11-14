@@ -118,28 +118,6 @@ timeline
 
 ---
 
-## GitHub 활동
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HerrineKim&theme=nord_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HerrineKim&theme=github" width="100%" alt="GitHub 프로필 요약: 기여와 주요 언어" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HerrineKim&theme=nord_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HerrineKim&theme=github" alt="GitHub 통계" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HerrineKim&theme=transparent&hide_border=true&locale=ko&ring=38BDF8&fire=2DD4BF&currStreakLabel=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=94A3B8&dates=94A3B8" />
-  <img height="170" src="https://streak-stats.demolab.com?user=HerrineKim&theme=transparent&hide_border=true&locale=ko&ring=0369A1&fire=0F766E&currStreakLabel=0369A1&currStreakNum=1E293B&sideNums=1E293B&sideLabels=475569&dates=475569" alt="GitHub 연속 기여" />
-</picture>
-
-</div>
-
----
-
 ## 코드 밖에서
 
 - **TEDxHanyangU** 오거나이저, **Women Who Code Seoul** 운영진으로 활동했어요
