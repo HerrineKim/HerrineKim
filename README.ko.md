@@ -50,7 +50,7 @@ timeline
     title River의 여정
     2017 - 2022 : 한양대학교 · 철학과 & 미디어커뮤니케이션
                 : TEDxHanyangU · 한양저널
-                : 코리아중앙데일리 · 인턴 기자
+                : 중앙일보 · 인턴 기자
     2022 : SSAFY 7기 · 팀 프로젝트 4회 모두 프론트엔드
          : 키트웍스 · 웹/앱 프론트엔드
     2023 - 2024 : Going Merry · Web Application Engineer (미국, 원격)
@@ -121,8 +121,7 @@ timeline
 ## 코드 밖에서
 
 - **TEDxHanyangU** 오거나이저, **Women Who Code Seoul** 운영진으로 활동했어요
-- **한양저널** 기자, **코리아중앙데일리** 인턴 기자로 글을 썼어요
-- **달레 스터디**에서 리트코드를 풀었어요
+- **한양저널** 기자, **중앙일보** 인턴 기자로 글을 썼어요
 - 2023년에 **Three.js**와 **Blender**를 공부했어요 ([threejs-study](https://github.com/HerrineKim/threejs-study), [blender-study](https://github.com/HerrineKim/blender-study))
 
 <div align="center">

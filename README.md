@@ -50,7 +50,7 @@ timeline
     title River’s journey
     2017 - 2022 : Hanyang Univ. · Philosophy & Media
                 : TEDxHanyangU · Hanyang Journal
-                : JoongAng Daily · intern reporter
+                : JoongAng Ilbo · intern reporter
     2022 : SSAFY 7th · frontend on all 4 team projects
          : Kitworks · web/app frontend
     2023 - 2024 : Going Merry · Web Application Engineer (US, remote)
@@ -121,8 +121,7 @@ timeline
 ## Beyond Code
 
 - Organized **TEDxHanyangU** and ran **Women Who Code Seoul** as an operator
-- Wrote as a reporter for **The Hanyang Journal** and interned at **Korea JoongAng Daily**
-- Solved LeetCode problems with the **DaleStudy** study group
+- Wrote as a reporter for **The Hanyang Journal** and interned at **JoongAng Ilbo**
 - Studied **Three.js** and **Blender** in 2023 ([threejs-study](https://github.com/HerrineKim/threejs-study), [blender-study](https://github.com/HerrineKim/blender-study))
 
 <div align="center">
