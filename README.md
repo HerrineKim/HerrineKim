@@ -2,83 +2,54 @@
 
 <p><b>English</b> · <a href="./README.ko.md">한국어</a></p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:0369A1,50:0E7490,100:0F766E&text=Hi,%20I%E2%80%99m%20River%20🌊&fontColor=ffffff&fontSize=56&fontAlignY=30" width="100%" alt="Hi, I’m River" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:0369A1,50:0E7490,100:0F766E&text=Hyerin%20(April)%20Kim&fontColor=ffffff&fontSize=56&fontAlignY=30" width="100%" alt="Hyerin (April) Kim" />
 
-<p><b>Hyerin (April) Kim</b> · Staff Engineer at <b>Taply</b></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&repeat=false&color=38BDF8&center=true&vCenter=true&width=500&lines=Philosophy+%26+Media+%E2%86%92+Journalism+%E2%86%92+Code;Frontend+at+heart%2C+full-stack+when+needed;I+like+changes+that+come+back+as+numbers;Writing+what+I+learn+on+Riverlog" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&repeat=false&color=0369A1&center=true&vCenter=true&width=500&lines=Philosophy+%26+Media+%E2%86%92+Journalism+%E2%86%92+Code;Frontend+at+heart%2C+full-stack+when+needed;I+like+changes+that+come+back+as+numbers;Writing+what+I+learn+on+Riverlog" alt="Philosophy and media, then journalism, then code. Frontend at heart, full-stack when needed. I like changes that come back as numbers. Writing what I learn on Riverlog." />
-</picture>
+<p>Staff Engineer at <b>Taply</b> · Seoul</p>
 
 <p>
-  <a href="https://riverlog-five.vercel.app"><img src="https://img.shields.io/badge/Riverlog-Blog%20%26%20Knowledge-0369A1?style=flat-square&logo=vercel&logoColor=white" width="253" alt="Riverlog: blog and knowledge base" /></a>
-  <a href="https://riverlog-five.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-Read%20the%20stories-0F766E?style=flat-square&logo=bookstack&logoColor=white" width="239" alt="Portfolio" /></a>
-  <a href="mailto:aprilhyerinkim@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0F172A?style=flat-square&logo=gmail&logoColor=white" width="144" alt="Email" /></a>
+  <a href="https://riverlog-five.vercel.app"><img src="https://img.shields.io/badge/Riverlog-0369A1?style=flat-square&logo=vercel&logoColor=white" width="102" alt="Riverlog" /></a>
+  <a href="https://riverlog-five.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=bookstack&logoColor=white" width="102" alt="Portfolio" /></a>
+  <a href="mailto:aprilhyerinkim@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white" width="83" alt="Email" /></a>
 </p>
 
 </div>
 
----
+## About
 
-## 🌊 About Me
+- Staff Engineer at Taply, a fintech company, since September 2026.
+- Web engineer focused on frontend, with work on mobile apps and backend services.
+- Worked remotely with US teams at Going Merry and Earnest from 2023 to 2026.
+- Studied philosophy and media at Hanyang University, then software engineering at Korea Cyber University.
+- Has written TIL notes since 2022, now collected on [Riverlog](https://riverlog-five.vercel.app).
 
-I studied **philosophy and media**, trained as a **reporter**, wandered into **data journalism**, and that is where I met code.
-Since **SSAFY** in 2022 I have been building on the web: frontend at heart, crossing over to apps and servers whenever the problem asks for it.
+## Experience
 
-I like work where a small change comes back as a number: a layout that shifts a little less, one line of onboarding copy, a trailing slash in a URL.
-And I write things down. What I learn goes into **[Riverlog](https://riverlog-five.vercel.app)**, my blog and personal knowledge base.
+| Period | Organization | Role |
+|:--|:--|:--|
+| 2026.09 - present | Taply | Staff Engineer |
+| 2026.02 - 2026.09 | Namkwang E&C, AX team | Full-stack developer |
+| 2025.01 - 2026.02 | Earnest (US, remote) | Software Engineer, Growth |
+| 2023.06 - 2024.12 | Going Merry (US, remote) | Web Application Engineer |
+| 2022.12 - 2023.05 | Kitworks | Web and app frontend developer |
 
-```ts
-const river = {
-  name: "Hyerin (April) Kim",
-  goesBy: "River",
-  now: "Staff Engineer @ Taply (fintech)",
-  basedIn: "Seoul, KR · worked remotely with US teams, 2023-2026",
-  background: ["Philosophy", "Media & Communications", "Software Engineering"],
-  focus: ["Frontend", "Growth experiments (A/B tests, SEO)", "Three.js", "AI coding workflows"],
-  writes: "TIL since 2022, now on Riverlog",
-};
-```
+## Education
 
----
+| Period | Institution | |
+|:--|:--|:--|
+| 2023.08 - 2025.02 | Korea Cyber University | B.E. in Software Engineering |
+| 2022.01 - 2022.12 | Samsung Software Academy for Youth (SSAFY), 7th cohort | Frontend on all four team projects |
+| 2017 - 2022 | Hanyang University | B.A. in Philosophy and Media & Communications |
 
-## Where the River Has Flowed
+## Results
 
-```mermaid
-timeline
-    title River’s journey
-    2017 - 2022 : Hanyang Univ. · Philosophy & Media
-                : TEDxHanyangU · Hanyang Journal
-                : JoongAng Ilbo · intern reporter
-    2022 : SSAFY 7th · frontend on all 4 team projects
-         : Kitworks · web/app frontend
-    2023 - 2024 : Going Merry · Web Application Engineer (US, remote)
-                : Women Who Code Seoul · operator
-    2025 : Earnest Growth · Software Engineer (US, remote)
-         : HashKey Chain Hackathon · design & frontend
-    2026 : Namkwang E&C AX team · full-stack
-         : Taply · Staff Engineer
-```
-
----
-
-## Changes That Came Back as Numbers
-
-<div align="center">
-
-| Impact | Where |
+| Result | Context |
 |:--|:--|
-| **+220%** Google organic search clicks (team) · avg. rank **7.5 → 4.3** | Earnest · WordPress → Next.js + Storyblok migration & SEO |
-| **+16%** loan closings in one month · Lighthouse CLS **0.06** | Earnest · onboarding funnel experiments |
-| **+30%** product engagement YoY · **3** new tools shipped in 2024 | Going Merry · student dashboard, Appeal Letter Generator, College Match |
-| **11** internal services on one portal · **94%** invoice–pour auto-match | Namkwang E&C · AXWORKS portal with shared org data (SSOT) |
-| Career evaluation per applicant **30 min → 3 min** · **1,488** engineers digitized | Namkwang E&C · AI-based career evaluation |
-| **1st** place (class) & **Excellence Award** | SSAFY · Mupli (Movie Playlist), Chaek-in |
-
-</div>
-
----
+| Google organic search clicks +220% (team); average rank 7.5 → 4.3 | Earnest: WordPress → Next.js + Storyblok migration and SEO |
+| Loan closings +16% in one month; Lighthouse CLS 0.06 | Earnest: onboarding funnel experiments |
+| Product engagement +30% year over year; 3 new tools shipped in 2024 | Going Merry: student dashboard, Appeal Letter Generator, College Match |
+| 11 internal services on one portal; 94% invoice–pour auto-match rate | Namkwang E&C: AXWORKS portal on shared org data (SSOT) |
+| Career evaluation per applicant 30 min → 3 min; 1,488 engineers' records digitized | Namkwang E&C: career evaluation system |
+| 1st place in class; Excellence Award | SSAFY: Mupli, Chaek-in |
 
 ## Tech Stack
 
@@ -102,32 +73,21 @@ timeline
 
 </div>
 
----
+## Projects
 
-## Featured Projects
-
-| Project | What it is | Built with |
+| Project | Description | Stack |
 |:--|:--|:--|
-| [**Riverlog**](https://riverlog-five.vercel.app) | My blog + knowledge base, grown from TIL notes since 2022 | Next.js, TypeScript |
-| [**Ssanta Clinic**](https://github.com/HerrineKim/ssanta-clinic) | A 3D Santa village & web advent calendar | React, Recoil, Three.js |
-| [**Mupli**](https://github.com/HerrineKim/movie-playlist) | Movie Playlist: recommendations by OST & famous lines · **1st place** | Vue, Django, TMDB API |
-| [**Chaek-in**](https://github.com/HerrineKim/chaek-in) | Book & reading-club recommendation app · **Excellence Award** | React Native, Expo |
-| [**Coding With Me**](https://github.com/HerrineKim/coding-with-me) | 1:N live coding class with web IDE & compiler | Vue 3, WebRTC, Spring Boot |
-| [**HashScope**](https://hashscope.vercel.app) | Token-metered API platform for AI agents, built in 2.5 days at a hackathon | Next.js, shadcn/ui, MetaMask |
-| [**my-dev-settings**](https://github.com/HerrineKim/my-dev-settings) | My Claude Code skills & dev environment | Python, Shell |
+| [Riverlog](https://riverlog-five.vercel.app) | Blog and knowledge base built from TIL notes | Next.js, TypeScript |
+| [Ssanta Clinic](https://github.com/HerrineKim/ssanta-clinic) | 3D Santa village and web advent calendar (2022) | React, Recoil, Three.js |
+| [Mupli](https://github.com/HerrineKim/movie-playlist) | Movie recommendations by soundtrack and famous lines; 1st place in class (2022) | Vue, Django, TMDB API |
+| [Chaek-in](https://github.com/HerrineKim/chaek-in) | Book and reading-club recommendation app; Excellence Award (2022) | React Native, Expo |
+| [Coding With Me](https://github.com/HerrineKim/coding-with-me) | 1:N live coding class with a web IDE and compiler (2022) | Vue 3, WebRTC, Spring Boot |
+| [HashScope](https://hashscope.vercel.app) | Token-metered API platform for AI agents, built in 2.5 days at a hackathon (2025) | Next.js, shadcn/ui, MetaMask |
+| [my-dev-settings](https://github.com/HerrineKim/my-dev-settings) | Personal Claude Code skills and dev environment | Python, Shell |
 
----
+## Other Activities
 
-## Beyond Code
-
-- Organized **TEDxHanyangU** and ran **Women Who Code Seoul** as an operator
-- Wrote as a reporter for **The Hanyang Journal** and interned at **JoongAng Ilbo**
-- Studied **Three.js** and **Blender** in 2023 ([threejs-study](https://github.com/HerrineKim/threejs-study), [blender-study](https://github.com/HerrineKim/blender-study))
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=0:0F766E,50:0E7490,100:0369A1" width="100%" alt="" />
-
-<sub>Thanks for stopping by. More notes on <a href="https://riverlog-five.vercel.app">Riverlog</a>.</sub>
-
-</div>
+- Women Who Code Seoul, operator (2023)
+- JoongAng Ilbo, intern reporter (2019.06 - 2019.12)
+- The Hanyang Journal, reporter (2018.08 - 2019.06)
+- TEDxHanyangU, organizer (2017.07 - 2017.12)
