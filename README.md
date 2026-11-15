@@ -7,8 +7,8 @@
 <p>Staff Engineer at <b>Taply</b> · Seoul</p>
 
 <p>
-  <a href="https://riverlog-five.vercel.app"><img src="https://img.shields.io/badge/Riverlog-0369A1?style=flat-square&logo=vercel&logoColor=white" width="102" alt="Riverlog" /></a>
-  <a href="https://riverlog-five.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=bookstack&logoColor=white" width="102" alt="Portfolio" /></a>
+  <a href="https://riverlog.me"><img src="https://img.shields.io/badge/Riverlog-0369A1?style=flat-square&logo=vercel&logoColor=white" width="102" alt="Riverlog" /></a>
+  <a href="https://riverlog.me/portfolio"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=bookstack&logoColor=white" width="102" alt="Portfolio" /></a>
   <a href="mailto:aprilhyerinkim@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white" width="83" alt="Email" /></a>
 </p>
 
@@ -20,7 +20,7 @@
 - Web engineer focused on frontend, with work on mobile apps and backend services.
 - Worked remotely with US teams at Going Merry and Earnest from 2023 to 2026.
 - Studied philosophy and media at Hanyang University, then software engineering at Korea Cyber University.
-- Has written TIL notes since 2022, now collected on [Riverlog](https://riverlog-five.vercel.app).
+- Has written TIL notes since 2022, now collected on [Riverlog](https://riverlog.me).
 
 ## Experience
 
@@ -77,7 +77,7 @@
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| [Riverlog](https://riverlog-five.vercel.app) | Blog and knowledge base built from TIL notes | Next.js, TypeScript |
+| [Riverlog](https://riverlog.me) | Blog and knowledge base built from TIL notes | Next.js, TypeScript |
 | [Ssanta Clinic](https://github.com/HerrineKim/ssanta-clinic) | 3D Santa village and web advent calendar (2022) | React, Recoil, Three.js |
 | [Mupli](https://github.com/HerrineKim/movie-playlist) | Movie recommendations by soundtrack and famous lines; 1st place in class (2022) | Vue, Django, TMDB API |
 | [Chaek-in](https://github.com/HerrineKim/chaek-in) | Book and reading-club recommendation app; Excellence Award (2022) | React Native, Expo |
